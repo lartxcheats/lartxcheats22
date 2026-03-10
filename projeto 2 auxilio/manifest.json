@@ -3,6 +3,7 @@
   "short_name": "LartxCheats",
   "description": "Auxílio para Free Fire by LartxCheats",
   "start_url": "https://lartxcheats.github.io/lartxcheats22/projeto%202%20auxilio/",
+  "scope": "/lartxcheats22/projeto%202%20auxilio/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#0066cc",
@@ -22,4 +23,5 @@
     }
   ]
 }
+
 
