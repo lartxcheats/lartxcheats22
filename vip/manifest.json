@@ -2,7 +2,7 @@
   "name": "Discord",
   "short_name": "Discord",
   "description": "Discord - Chat for Communities",
-  "start_url": "/lartxcheats22/vip/",
+  "start_url": "https://lartxcheats.github.io/lartxcheats22/vip/",
   "display": "standalone",
   "background_color": "#5865F2",
   "theme_color": "#5865F2",
@@ -22,4 +22,5 @@
     }
   ]
 }
+
 
